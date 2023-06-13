@@ -1,0 +1,27 @@
+#puzzle{
+height: 450px;
+width: 450px;
+}
+
+#puzzle input{
+height: 50px;
+width: 50px;
+box-sizing: border-box;
+border-spacing: 0;
+border: 1px solid gray;
+}
+.odd-section{
+    background-color: lightgrey;
+}
+
+#solve-button{
+    background-color: chocolate;
+    color: aliceblue;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 9px;
+    border: none;
+}
+#solve-button:hover{
+    background-color: rgb(133, 34, 1);
+}

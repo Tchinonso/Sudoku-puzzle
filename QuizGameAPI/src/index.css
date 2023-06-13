@@ -1,0 +1,12 @@
+.level-selector{
+  background-color: aqua;
+}
+.question-area{
+  background-color: forestgreen;
+}
+.question-box{
+  background-color: antiquewhite;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 20px;
+}
